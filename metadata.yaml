@@ -1,0 +1,26 @@
+_repo: A-Historical-Survey-of-the-Customs-Habits--amp--Present-State-of-the-Gypsies_29063
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoyland, John
+    birthdate: 1750
+    deathdate: 1831
+    gutenberg_agent_id: '33672'
+    url: http://www.gutenberg.org/2009/agents/33672
+description: ''
+gutenberg_issued: '2009-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DX'
+- !lcsh 'Romanies'
+title: A Historical Survey of the Customs, Habits, & Present State of the Gypsies
+url: http://www.gutenberg.org/ebooks/29063
